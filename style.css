@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.Irin{
+    color: orangered;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 0 10px;
+}
+.develop{
+    margin-bottom: 50px;
+}
+.flexible-containe{
+    display: flex;
+}
+.half-with{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-with img{
+    width: 80%;
+    margin-top: 50px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+
+}
