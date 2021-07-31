@@ -39,6 +39,7 @@ h2{
 .Dream Big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
+    
 }
 .experience-item{
     width: 40%;
@@ -71,4 +72,7 @@ footer p{
 }
 .aaa{
     margin-left: 80px;
+}
+.develop{
+    margin-right: 50px;
 }
